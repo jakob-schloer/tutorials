@@ -1,0 +1,21 @@
+name: tutorialEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - python[version='>=3.8']
+  - ipython
+  - ipywidgets
+  - pip
+  - xarray
+  - netcdf4
+  - numpy
+  - scipy
+  - matplotlib
+  - cartopy
+  - scikit-learn
+  - pytorch
+  - torchvision
+  - cudatoolkit
+  - nc-time-axis

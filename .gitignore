@@ -1,0 +1,13 @@
+# Files to ignore by git
+*.pyc
+*.sh
+*.npy
+
+# Paths to ignore
+.ipynb_checkpoints/
+.mypy_chache/
+.vscode/
+.pytest_cache/
+__pycache__
+
+
