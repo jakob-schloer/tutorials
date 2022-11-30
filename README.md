@@ -7,7 +7,12 @@ You can find the following tutorials:
 
 1. **AE_VAE/**: Tutorial on autoencoders and Variational Autoencoders for SSTA in the tropical Pacific and SLP over the Atlantic
 
-2. **mlp_timeseries/**: Introduction to multi-layer perceprons for time-series forecasting.
+    <img src="AE_VAE/img/vae_latent_traverse.png" width="600"> 
+
+
+2. **MLP_timeseries/**: Introduction to multi-layer perceprons for time-series forecasting.
+
+    <img src="MLP_timeseries/img/mlp_autoregressive.png" width="500"> 
 
 
 
