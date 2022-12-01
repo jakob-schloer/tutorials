@@ -27,7 +27,7 @@ conda env create -f condaEnv.yml
 ```
 2. Activate environment:
 ```
-conda activate seminarEnv
+conda activate tutorialEnv
 ```
 
 *Note: If you don't have a Nvidia grafic card you need to comment the line including cudatoolkit in the condaenv.yml file* 
