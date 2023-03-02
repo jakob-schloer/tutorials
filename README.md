@@ -14,6 +14,9 @@ You can find the following tutorials:
 
     <img src="MLP_timeseries/img/mlp_autoregressive.png" width="500"> 
 
+3. **EOF/**: Empirical orthogonal function analysis (PCA for spatio-temporal data).
+
+    <img src="EOF/img/eof_pc.png" width="500"> 
 
 
 
