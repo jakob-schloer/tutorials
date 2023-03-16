@@ -18,6 +18,10 @@ You can find the following tutorials:
 
     <img src="EOF/img/eof_pc.png" width="500"> 
 
+4. **LIM/**: Linear inverse model (Dynamical mode decomposition) for SSTA field prediction.
+
+    <img src="LIM/img/lim_frcst.png" width="500"> 
+
 
 
 ## Installation
